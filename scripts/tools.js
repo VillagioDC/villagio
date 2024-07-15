@@ -16,6 +16,10 @@ function openReactPage () {
     window.open('https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev', '_blank');
 }
 
+function openEvergreenUI () {
+    window.open('https://evergreen.segment.com/components/autocomplete/', '_blank');
+}
+
 function openMongoDBAtlas () {
     window.open('https://account.mongodb.com/account/login', '_blank');
 }
