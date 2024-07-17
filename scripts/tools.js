@@ -96,6 +96,10 @@ function openPexelsPage () {
     window.open('https://www.pexels.com/en-us/', '_blank');
 }
 
+function openVecteezyPage () {
+    window.open('https://www.vecteezy.com/free-vector/', '_blank');
+}
+
 function openHugginFacePage () {
     window.open('https://huggingface.co/', '_blank');
 }
