@@ -100,6 +100,10 @@ function openVecteezyPage () {
     window.open('https://www.vecteezy.com/free-vector/', '_blank');
 }
 
+function openMusicHeroPage () {
+    window.open('https://musichero.ai/en/app', '_blank');
+}
+
 function openHugginFacePage () {
     window.open('https://huggingface.co/', '_blank');
 }
