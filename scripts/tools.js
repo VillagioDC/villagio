@@ -104,6 +104,10 @@ function openMusicHeroPage () {
     window.open('https://musichero.ai/en/app', '_blank');
 }
 
+function openMubertPage () {
+    window.open('https://mubert.com/render', '_blank');
+}
+
 function openHugginFacePage () {
     window.open('https://huggingface.co/', '_blank');
 }
