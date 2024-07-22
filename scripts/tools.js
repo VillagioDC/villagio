@@ -104,6 +104,10 @@ function openMusicHeroPage () {
     window.open('https://musichero.ai/en/app', '_blank');
 }
 
+function openSzynalskiPage () {
+    window.open('https://www.szynalski.com/tone-generator/', '_blank');
+}
+
 function openHugginFacePage () {
     window.open('https://huggingface.co/', '_blank');
 }
